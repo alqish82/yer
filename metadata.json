@@ -1,0 +1,8 @@
+{
+  "name": "YerVar - Ride Sharing",
+  "description": "YerVar is a real-time ride-sharing platform that connects drivers with empty seats to passengers looking for a ride. The platform features a live map, easy ride posting for drivers, and a simple search function for passengers.",
+  "server": "server/server.js",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

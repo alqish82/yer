@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "uuid": "^9.0.1",
+    "bcryptjs": "^2.4.3",
+    "express-session": "^1.18.0",
+    "cookie-parser": "^1.4.6"
+  }
+}
